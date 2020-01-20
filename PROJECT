@@ -1,3 +1,7 @@
 domain: my.domain
 repo: wangrong.com/example-crd
+resources:
+- group: apps
+  kind: Application
+  version: v1alpha1
 version: "2"
