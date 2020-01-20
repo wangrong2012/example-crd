@@ -4,4 +4,7 @@ resources:
 - group: apps
   kind: Application
   version: v1alpha1
+- group: apps
+  kind: Frigate
+  version: v1beta1
 version: "2"
